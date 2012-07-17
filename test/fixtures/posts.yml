@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: zz
+  title: Dancer
+  content: I am a dancer~
+
+two:
+  name: xiuqi
+  title: pet
+  content: I am a pet~ 
